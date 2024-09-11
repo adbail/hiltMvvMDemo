@@ -1,4 +1,4 @@
-package com.raj.ktsdemo
+package com.raj.notes
 
 import org.junit.Test
 
